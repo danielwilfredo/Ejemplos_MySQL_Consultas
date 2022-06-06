@@ -1,3 +1,4 @@
+DROP DATABASE IF EXISTS estadisticas;
 CREATE DATABASE estadisticas;
 USE estadisticas;
 
